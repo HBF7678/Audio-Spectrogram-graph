@@ -47,7 +47,7 @@ By committing your code to the this repository  you agree to release the code un
 
 
 Project Made By:
-Sri Yeswanth Tammannagari
-Abhishek Vishwakarma
-Divyanshu Kumar
-Bobby Yadav
+Sri Yeswanth Tammannagari,
+Abhishek Vishwakarma,
+Divyanshu Kumar,
+Bobby Yadav.
